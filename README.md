@@ -36,9 +36,7 @@ clover-payment-app/
 │ └─ package.json
 └─ README.md # (you’re here)
 
-yaml
-Copy
-Edit
+
 
 
 ## 🛠 Prerequisites
