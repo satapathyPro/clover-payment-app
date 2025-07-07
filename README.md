@@ -10,7 +10,6 @@ Great as a reference or starter template for integrating Clover payments into yo
 * **OAuth2 “Connect Clover Account”** button (private-app install + consent)
 * Automatic **token refresh** using the saved `refresh_token`
 * Simple **order + line-item + test payment** flow
-* Shared **`.env`** in the repo root for both backend & frontend
 * One-click **sandbox** setup; swap the base URL to hit production later
 
 ---
